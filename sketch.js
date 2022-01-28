@@ -16,7 +16,7 @@ function preload(){
     playerpulo = loadAnimation("jump.png")
     soloi = loadImage("ground2.png")
     estrelai = loadImage("estrela.png")
-gameov = loadAnimation("fimdejogo.png")
+gameov = loadAnimation("fimdeJogo.png")
     PT = loadAnimation("powerupyellow.png","powerupgreen.png","powerupazul.png","powerupred.png")
 }
 
